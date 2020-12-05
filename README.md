@@ -9,7 +9,7 @@ The aim of this design is to be low cost, accessible, easy to assemble, robust a
 ## Design Description  
 The Oded Hand can perform a variety of user-defined hand configurations using an autonomous adaptive grip along with a variety of grip force levels.
 The mechanical design consists of four fingers with four different tendon-driven mechanisms actuated by four different micro-DC motors, a passive thumb with two discrete positions using two magnets and wrist rotation driven by planetary gears and a DC motor. 
-Each finger is an independent module, hence from a developer point-of-view, you can check new finger designs and change the number of fingers in your hand model. For more details, see the [project presentation] (docs\project_presentation)
+Each finger is an independent module, hence from a developer point-of-view, you can check new finger designs and change the number of fingers in your hand model. For more details, see the [project presentation](docs/project_presentation.pdf)
 All five independent micro-DC motors are driven by a microcontroller system which measures the motors’ current state (see our [Electronic Design](https://github.com/Haifa3D/hand-electronic-design)) and communicate via Bluetooth with additional sensors or systems (see our [Mobile App](https://github.com/Haifa3D/haifa3d-hand-app)).  
 
 ## Who can benefit from this Design?  
