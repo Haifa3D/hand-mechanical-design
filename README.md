@@ -29,19 +29,7 @@ We use the UP mini 2 printer + ABS / SnapMaker2 + PLA
 
 * Please download all STL files ([folder](stl_files) or as a [zip file](stl_files.zip)).
 
-* For your convenient, a ready-to-print combined "stls plates" can be found as well according to the below list:
-
-| Part Name | Quality | Infill | Support |
-| --- | --- | --- | --- |
-| fingers_w_thumb_plate	| High | High | not a must, recommand to add support for the gears (can be defined only for large overhang angle>80 degrees) |
-| fingers_chassis_plate | High | High | not a must, recommand to add support for the gears (can be done also by increasing the support overhang angle threshold >80 degrees) | 
-| fingers_gears_plate | High | High | NO | 
-| palm_plate | Normal | Normal | YES |
-| wrist_covers_plate | Normal | Normal | YES |
-| wrist_gears_plate | High | High | YES (can be defined only for large overhang angle>80 degrees) |
-
-
- * Oded Hand parts list:
+* Oded Hand parts list:
 
  
 | Part Name | Quantity | Hand Module | Right/Left Hand
