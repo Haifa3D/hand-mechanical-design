@@ -81,7 +81,7 @@ We use the UP mini 2 printer + ABS / SnapMaker2 + PLA
   12.	5 micro metal gear motors – for the full electrical specification see the electronic design manual.
 
 
-After you complete the mechanical assembly of the Oded Hand according to the [Manual](docs/manual_05dec20.pdf), please refer to the [Electronic Design](https://github.com/Haifa3D/hand-electronic-design)(*Not yet public repo*) to assemble the PCB. If you have already assembled the mechanical and the electrical parts, you are welcome to check out our [Mobile App](https://github.com/Haifa3D/haifa3d-hand-app) to refine the controller parameters and to define your favorite hand movements.
+After you complete the mechanical assembly of the Oded Hand according to the [Manual](docs/manual_05dec20.pdf), please refer to the [Electronic Design](https://github.com/Haifa3D/hand-electronic-design) to assemble the PCB. If you have already assembled the mechanical and the electrical parts, you are welcome to check out our [Mobile App](https://github.com/Haifa3D/haifa3d-hand-app) to refine the controller parameters and to define your favorite hand movements.
 
 ## Acknowledgements:
 This project was done by a group of great people and with the help and guidance of generous organizations.
