@@ -86,7 +86,7 @@ After you complete the mechanical assembly of the Oded Hand according to the [Ma
 ## Acknowledgements:
 This project was done by a group of great people and with the help and guidance of generous organizations.
 
-*Mechanical design*:  Oded Katzman, Shunit Polinsky, Frank Schenk, Avital Dellariccia, and Taga Product Design Company, Israel.
+*Mechanical design*:  Oded Katzman, Shunit Polinsky, Frank Schenk, Avital Dellariccia, SU-PAD company and Taga Product Design Company, Israel.
 
 *Users Communication*: Haifa 3D – a nonprofit organization that designs and builds hands for free, founded by Yoav Medan and Yacov Malinovich.
 
