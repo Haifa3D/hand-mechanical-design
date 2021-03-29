@@ -18,7 +18,7 @@ We welcome any new developers to enhance our design or to use the Oded Hand as a
 
 ## Design Files and Versions  
 See our detailed [Manual](docs/manual_05dec20.pdf), including printing parameters, assembly instruction and images. *Notice: some of the images are from our previous version but the current version assembly and functionality can be deduced easily according to the same instructions.*
-The STL files can be found [here](stl_files) as a folder or [here](stl_files.zip) as a zip file ready to download. The source files (SolidWorks2020) can be found [here](SW20_files) as well as the [Parasolid parts](xt_files).
+The STL files can be found [here](stl_files) as a folder or [here](stl_files.zip) as a zip file ready to download. The source files (SolidWorks2020) can be sent upon request, while the Parasolid parts can be found [here](xt_files).
 
 ## Getting Started:
 To build the Oded Hand you will need a basic knowledge of 3D-printing and an access to a 3D printer. 
@@ -78,7 +78,7 @@ We use the UP mini 2 printer + ABS / SnapMaker2 + PLA
   9.	6 self-tap Screws M2x8
   10.	2 Machine screws and nuts M3x40 [mm]
   11.	Electrical Wire for ~0.5 [amp]
-  12.	5 micro metal gear motors – for the full electrical specification see the electronic design manual.
+  12.	5 micro metal gear motors – N20 dc motor, 6V, LP or MP (low or middle power), between 100-200 RPM for the fingers (we are using 200 RPM) and 30 RPM for the wrist. For instance, an [aliexpress seller](https://www.aliexpress.com/item/4000274747864.html?spm=a2g0s.9042311.0.0.64f14c4dRZbTvU).
 
 
 After you complete the mechanical assembly of the Oded Hand according to the [Manual](docs/manual_05dec20.pdf), please refer to the [Electronic Design](https://github.com/Haifa3D/hand-electronic-design) to assemble the PCB. If you have already assembled the mechanical and the electrical parts, you are welcome to check out our [Mobile App](https://github.com/Haifa3D/haifa3d-hand-app) to refine the controller parameters and to define your favorite hand movements.
